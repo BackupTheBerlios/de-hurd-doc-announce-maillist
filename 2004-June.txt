@@ -1,0 +1,39 @@
+From manofwar at web.de  Mon Jun 14 00:04:52 2004
+From: manofwar at web.de (Oliver Beck)
+Date: Mon, 14 Jun 2004 00:04:52 +0200
+Subject: [dhd-announce] GNU/Hurd Benutzerhandbuch
+Message-ID: <20040614000452.36b46871@debian.asgard>
+
+Hallo Leute,
+
+jojo, ich geb's nicht auf ;)
+
+Also, ich habe jetzt Kapitel 1, 2 und 3 ?bersetzt und die ?nderungen auf
+der Projekt-Seite [1] vermerkt. Die dazugeh?rige HTML-Datei ist unter
+[2] zu finden. Das aktuelle tar.gz [3] und .tar.bz [4] mit geteilten
+Texinfo-Quellen und Makefile habe ich ebenfalls aktualisiert.
+
+Der Status zum Benutzerhandbuch kann unter [5] nachgesehen werden.
+
+Kann ich Florian und Christine als ?bersetzer von der Seite nehmen und
+sie als Korrekturleser stehen lassen oder beides weg?
+
+Sorry an diejenigen, die auch auf der ML angemeldet sind, dass sie diese
+Mail doppelt erhalten.
+
+
+[1] http://de-hurd-doc.berlios.de
+[2] http://de-hurd-doc.berlios.de/files/gnuhurd_benutzerhandbuch.html
+[3] http://de-hurd-doc.berlios.de/files/gnuhurd_benutzerhandbuch.tar.gz
+[4] http://de-hurd-doc.berlios.de/files/gnuhurd_benutzerhandbuch.tar.bz2
+[5] http://de-hurd-doc.berlios.de/detail/userguide.php
+
+Mit freundlichen Gruessen/Best Regards Oliver Beck
+
+-- 
+ /"\ -ASCII-Ribbon-Campaign- |
+ \ /    Against HTML Mail    | -Linux on an VIA EPIA-M9000-
+  X                          |    http://epia.std-err.de
+ / \                         |        (german only)
+
+
